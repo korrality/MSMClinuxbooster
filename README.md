@@ -17,12 +17,11 @@ it supports http(s), socks4, socks5 proxies but they must be pretty decent becau
 - hypixel rank, level, first/last login, bedwars stars, skyblock coins, ban status
 
 ## Installing:
-MSMC ONLY SUPPORTS WINDOWS IT WILL NOT WORK ON LINUX OR MACOS
+MSMC ONLY SUPPORTS WINDOWS IT WILL WORK ON LINUX, TERMUX(ANDROID) [in this repository]
 ### [LINUX VERSION](https://github.com/8h3-coder/MSMC_Linux) (thanks to 8h3)
 
 Watch the tutorial [here](https://youtu.be/R4ivtEXpC_0)
 
-You do not need to install tor. Tor is automatically installed when selected for proxies.
 
 install [python](https://www.python.org/downloads/) and [git](https://git-scm.com/download/win)
 ```
