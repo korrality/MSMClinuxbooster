@@ -25,10 +25,10 @@ Watch the tutorial [here](https://youtu.be/R4ivtEXpC_0)
 
 install [python](https://www.python.org/downloads/) and [git](https://git-scm.com/download/win)
 ```
-git clone https://github.com/MachineKillin/MSMC
-cd MSMC
+git clone https://github.com/korrality/MSMClinuxbooster
+cd MSMClinuxbooster
 pip install -r requirements.txt
-python MSMC.py
+python MSMC_linuxbooster.py
 ```
 
 ## Addons
